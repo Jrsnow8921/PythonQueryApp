@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "PTOQuery-win-32", "PTOQuery-win-32\PTOQuery-win-32.isproj", "{5EA782F3-5107-4137-94CD-ED9AA10037B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		DVD-5|Default = DVD-5|Default
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.CD_ROM|Default.ActiveCfg = CD_ROM
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.CD_ROM|Default.Build.0 = CD_ROM
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.DVD-5|Default.ActiveCfg = DVD-5
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.DVD-5|Default.Build.0 = DVD-5
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.SingleImage|Default.ActiveCfg = SingleImage
+		{5EA782F3-5107-4137-94CD-ED9AA10037B3}.SingleImage|Default.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
